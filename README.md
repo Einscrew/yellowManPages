@@ -6,4 +6,4 @@ Current usage in `gnome-terminal`
 A profile called "man" should be created
 
 ### Check it out
-![scrn](https://github.com/Einscrew/yellowManPages/blob/master/src.png)
+![scrn](https://github.com/Einscrew/yellowManPages/blob/master/scrn.png)
